@@ -1,2 +1,3 @@
 # magbender
-My personal repository
+# About me
+Endlessly curious, always learning, never settling for just good enough.
